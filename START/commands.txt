@@ -1,0 +1,19 @@
+pyuic5 -x graphicalview.ui -o graphicalview.py
+
+
+70, 220, 101, 41
+
+self.combo_mod1.currentIndexChanged.connect(self.qnCountCalc)
+
+pdf.multi_cell(effective_page_width, 5, " 
+
+
+
+https://myaccount.google.com/lesssecureapps
+
+
+pyinstaller -w login.py
+
+
+E:\KTU_MCA\SEMESTER-5\mini project\START\py files\dist\login                                                                                  OR")
+
